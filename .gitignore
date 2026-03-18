@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Ignores these extensions in the root and all subdirectories
+*.tex
+*.svg
+*.mp4
+*.txt
